@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UEAsset.cpp.obj": [
+			"UEAsset.cpp.obj",
+			"UEAssetCommands.cpp.obj",
+			"UEAssetStyle.cpp.obj"
+		]
+	}
+}

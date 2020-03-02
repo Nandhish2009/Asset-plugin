@@ -1,0 +1,42 @@
+D:\practice of unreal book\MyAssignment\Plugins\UEAsset\Intermediate\Build\Win64\UE4Editor\Development\UEAsset\Definitions.UEAsset.h
+D:/practice of unreal book/MyAssignment/Plugins/UEAsset/Source/UEAsset/Private/UEAsset.cpp
+D:\practice of unreal book\MyAssignment\Plugins\UEAsset\Source\UEAsset\Public\UEAsset.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets\SViewport.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Slate\SceneViewport.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\PropertyHandle.h
+c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\PropertyEditorModule.h
+c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\IDetailsView.h
+c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\PropertyEditorDelegates.h
+c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\IPropertyTypeCustomization.h
+D:\practice of unreal book\MyAssignment\Plugins\UEAsset\Source\UEAsset\Public\UEAssetStyle.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+D:\practice of unreal book\MyAssignment\Plugins\UEAsset\Source\UEAsset\Public\UEAssetCommands.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+c:\program files\epic games\ue_4.23\engine\source\editor\leveleditor\public\ILevelEditor.h
+c:\program files\epic games\ue_4.23\engine\source\editor\leveleditor\public\ViewportTypeDefinition.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\PropertyCustomizationHelpers.h
+c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\IDetailCustomNodeBuilder.h
+c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\DetailWidgetRow.h
+c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\SResetToDefaultMenu.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\ActorPickerMode\Public\ActorPickerMode.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\SceneDepthPickerMode\Public\SceneDepthPickerMode.h
+c:\program files\epic games\ue_4.23\engine\source\editor\propertyeditor\public\IDetailPropertyRow.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Projects\Public\Interfaces\IPluginManager.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\projects\public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\projects\public\CustomBuildSteps.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\projects\public\LocalizationDescriptor.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor/Private/UserInterface/PropertyDetails/PropertyDetailsUtilities.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\PropertyEditor\Public\IPropertyUtilities.h
+D:/practice of unreal book/MyAssignment/Plugins/UEAsset/Source/UEAsset/Private/UEAssetCommands.cpp
+D:/practice of unreal book/MyAssignment/Plugins/UEAsset/Source/UEAsset/Private/UEAssetStyle.cpp
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h

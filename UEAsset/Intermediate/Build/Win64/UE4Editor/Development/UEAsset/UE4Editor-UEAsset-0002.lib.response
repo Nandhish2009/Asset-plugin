@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UEAsset-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\practice of unreal book\MyAssignment\Intermediate\Build\Win64\MyAssignmentEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\practice of unreal book\MyAssignment\Plugins\UEAsset\Intermediate\Build\Win64\UE4Editor\Development\UEAsset\Module.UEAsset.cpp.obj"
+"D:\practice of unreal book\MyAssignment\Plugins\UEAsset\Intermediate\Build\Win64\UE4Editor\Development\UEAsset\Default.rc2.res"
+/OUT:"D:\practice of unreal book\MyAssignment\Plugins\UEAsset\Intermediate\Build\Win64\UE4Editor\Development\UEAsset\UE4Editor-UEAsset-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_UEAsset
